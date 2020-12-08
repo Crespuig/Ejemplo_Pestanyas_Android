@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejemplo_Pestanyas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">fragmentHome</string>
+    <string name="dashboard_fragemnt">FragmentDashboard</string>
+</resources>
